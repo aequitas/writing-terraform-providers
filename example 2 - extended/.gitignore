@@ -1,0 +1,4 @@
+terraform.tfstate*
+terraform-provider-*
+terraform.d/
+.terraform/
