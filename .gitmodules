@@ -1,0 +1,3 @@
+[submodule "example 3 - terraform-provider-transip"]
+	path = example 3 - terraform-provider-transip
+	url = https://github.com/aequitas/terraform-provider-transip.git
